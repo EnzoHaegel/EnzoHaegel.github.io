@@ -20,6 +20,18 @@ h2 {
     color: #eee;
 }
 
+.h1 {
+    font-size: 32px;
+    text-align: center;
+    color: #eee;
+}
+
+.h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #eee;
+}
+
 h3 {
     font-size: 20px;
     text-align: center;
@@ -44,13 +56,19 @@ h6 {
     color: #eee;
 }
 
-p {
+.p {
     font-size: 16px;
     text-align: center;
     color: #eee;
 }
 
 section {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.section {
     padding: 10px;
     margin: 20px;
     border-radius: 10px;
