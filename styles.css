@@ -159,6 +159,7 @@ section,
   justify-content: space-between;
   color: #eee;
   margin-top: 5px;
+  font-size: 18px;
 }
 
 .skillName {
@@ -174,16 +175,12 @@ section,
     display: flex;
 }
 
-.skill span {
-  font-size: 18px;
-}
-
-.skill .stars {
+.stars {
   display: flex;
   align-items: center;
 }
 
-.skill ion-icon {
+ion-icon {
   margin: 0 0.25rem;
 }
 
